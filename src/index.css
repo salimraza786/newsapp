@@ -1,0 +1,4 @@
+  .nav-link.one:hover {
+    color: var(--bs-danger); 
+    background-color: rgb(59, 57, 57);
+  }
